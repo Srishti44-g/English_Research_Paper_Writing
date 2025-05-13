@@ -57,6 +57,16 @@ By the end of this course, you will be able to:
 - Useful Phrases
 - Ensuring High-Quality First-Time Submission
 
+- | Q No. | Question                                                                  | Marks | CO  |
+| ----- | ------------------------------------------------------------------------- | ----- | --- |
+| 1     | **Explain planning and preparation required for research communication.** | 5     | CO1 |
+| 2     | Use appropriate word order and write short sentences.                     | 5     | CO1 |
+| 3     | Demonstrate writing coherent paragraphs and sentences.                    | 5     | CO1 |
+| 4     | Explain with Paraphrase and avoid plagiarism in the research paper.       | 5     | CO2 |
+| 5     | Demonstrate how to develop title, write abstract and introduction.        | 5     | CO2 |
+| 6     | Demonstrate conciseness, clarity and avoid redundancy.                    | 5     | CO2 |
+
+
 ---
 
 ## 📚 Recommended Study Resources
